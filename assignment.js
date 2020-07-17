@@ -68,4 +68,7 @@ function tinyFriend(nameFriends){
   console.log("This is friends Name:"+resultNames);
 
 
+  /*------Vai ami china thakha khub kosto kora course ta korci.first assignment a marks kom paici aktu time a problem aca tai time moto assignment submit korta pari nai,next assignment casta korbo time moto submit korer inshallha."---Vai amer dekha aktu kayal rakben asa kori----".Vai amer jonno doya korben...vai valo thakben sabdahana thakben duo kori.Allha Hafiz.............*/
+
+
 
